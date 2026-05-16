@@ -1,4 +1,5 @@
 # WealthPilot — AI Co-Pilot for Independent Financial Advisors
+![Uploading Screenshot 2026-05-16 at 8.19.38 AM.png…]()
 
 **Columbia IEORE4576 Capstone Project — Spring 2026**
 **Student:** Kanchan Bhale (kvb2117)
