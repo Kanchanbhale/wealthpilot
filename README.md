@@ -1,12 +1,10 @@
 # WealthPilot — AI Co-Pilot for Independent Financial Advisors
-<img width="1407" height="726" alt="Screenshot 2026-05-16 at 8 20 53 AM" src="https://github.com/user-attachments/assets/9024116f-b288-49b6-b87d-605cdf863e5b" />
-
-
 **Columbia IEORE4576 Capstone Project — Spring 2026**
 **Student:** Kanchan Bhale (kvb2117)
 
 ## Live URL
 https://wealthpilot-1026658918129.us-central1.run.app
+<img width="1407" height="726" alt="Screenshot 2026-05-16 at 8 20 53 AM" src="https://github.com/user-attachments/assets/9024116f-b288-49b6-b87d-605cdf863e5b" />
 
 ## What It Does
 WealthPilot is a multi-agent AI system giving independent RIAs a smart morning brief — surfacing which client accounts need attention, why, and what to do about it.
