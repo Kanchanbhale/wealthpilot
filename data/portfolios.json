@@ -1,0 +1,296 @@
+{
+  "C001": {
+    "account_value": 1180000,
+    "holdings": [
+      {
+        "ticker": "BND",
+        "name": "Vanguard Total Bond ETF",
+        "shares": 2100,
+        "current_price": 73.5,
+        "cost_basis": 78.2,
+        "asset_class": "fixed_income"
+      },
+      {
+        "ticker": "VGSH",
+        "name": "Vanguard Short-Term Treasury",
+        "shares": 1800,
+        "current_price": 57.8,
+        "cost_basis": 59.1,
+        "asset_class": "fixed_income"
+      },
+      {
+        "ticker": "MUB",
+        "name": "iShares Muni Bond ETF",
+        "shares": 900,
+        "current_price": 106.2,
+        "cost_basis": 108.5,
+        "asset_class": "fixed_income"
+      },
+      {
+        "ticker": "VYM",
+        "name": "Vanguard High Div Yield ETF",
+        "shares": 780,
+        "current_price": 118.4,
+        "cost_basis": 105.3,
+        "asset_class": "equities"
+      },
+      {
+        "ticker": "SCHD",
+        "name": "Schwab US Dividend ETF",
+        "shares": 650,
+        "current_price": 82.1,
+        "cost_basis": 71.4,
+        "asset_class": "equities"
+      },
+      {
+        "ticker": "CASH",
+        "name": "Money Market",
+        "shares": 1,
+        "current_price": 128000,
+        "cost_basis": 128000,
+        "asset_class": "cash"
+      }
+    ]
+  },
+  "C002": {
+    "account_value": 2750000,
+    "holdings": [
+      {
+        "ticker": "VTI",
+        "name": "Vanguard Total Stock Market",
+        "shares": 4200,
+        "current_price": 238.5,
+        "cost_basis": 195.2,
+        "asset_class": "equities"
+      },
+      {
+        "ticker": "VXUS",
+        "name": "Vanguard Total Intl Stock",
+        "shares": 3100,
+        "current_price": 58.3,
+        "cost_basis": 62.1,
+        "asset_class": "equities"
+      },
+      {
+        "ticker": "ESGU",
+        "name": "iShares ESG Aware MSCI USA",
+        "shares": 1200,
+        "current_price": 112.4,
+        "cost_basis": 124.8,
+        "asset_class": "equities"
+      },
+      {
+        "ticker": "AGG",
+        "name": "iShares Core US Aggregate Bond",
+        "shares": 3500,
+        "current_price": 95.6,
+        "cost_basis": 102.3,
+        "asset_class": "fixed_income"
+      },
+      {
+        "ticker": "VCIT",
+        "name": "Vanguard Corp Bond ETF",
+        "shares": 1800,
+        "current_price": 79.2,
+        "cost_basis": 84.5,
+        "asset_class": "fixed_income"
+      },
+      {
+        "ticker": "CASH",
+        "name": "Money Market",
+        "shares": 1,
+        "current_price": 142000,
+        "cost_basis": 142000,
+        "asset_class": "cash"
+      }
+    ]
+  },
+  "C003": {
+    "account_value": 4420000,
+    "holdings": [
+      {
+        "ticker": "QQQ",
+        "name": "Invesco QQQ Trust",
+        "shares": 3800,
+        "current_price": 458.2,
+        "cost_basis": 380.5,
+        "asset_class": "equities"
+      },
+      {
+        "ticker": "SPY",
+        "name": "SPDR S&P 500 ETF",
+        "shares": 2900,
+        "current_price": 524.8,
+        "cost_basis": 441.2,
+        "asset_class": "equities"
+      },
+      {
+        "ticker": "ARKK",
+        "name": "ARK Innovation ETF",
+        "shares": 4200,
+        "current_price": 48.3,
+        "cost_basis": 98.7,
+        "asset_class": "equities"
+      },
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA Corporation",
+        "shares": 1100,
+        "current_price": 875.4,
+        "cost_basis": 420.3,
+        "asset_class": "equities"
+      },
+      {
+        "ticker": "BND",
+        "name": "Vanguard Total Bond ETF",
+        "shares": 1200,
+        "current_price": 73.5,
+        "cost_basis": 76.8,
+        "asset_class": "fixed_income"
+      },
+      {
+        "ticker": "CASH",
+        "name": "Money Market",
+        "shares": 1,
+        "current_price": 220000,
+        "cost_basis": 220000,
+        "asset_class": "cash"
+      }
+    ]
+  },
+  "C004": {
+    "account_value": 875000,
+    "holdings": [
+      {
+        "ticker": "TIPS",
+        "name": "iShares TIPS Bond ETF",
+        "shares": 1400,
+        "current_price": 108.3,
+        "cost_basis": 112.4,
+        "asset_class": "fixed_income"
+      },
+      {
+        "ticker": "BND",
+        "name": "Vanguard Total Bond ETF",
+        "shares": 2200,
+        "current_price": 73.5,
+        "cost_basis": 79.2,
+        "asset_class": "fixed_income"
+      },
+      {
+        "ticker": "VYM",
+        "name": "Vanguard High Div Yield ETF",
+        "shares": 480,
+        "current_price": 118.4,
+        "cost_basis": 109.8,
+        "asset_class": "equities"
+      },
+      {
+        "ticker": "VNQ",
+        "name": "Vanguard Real Estate ETF",
+        "shares": 620,
+        "current_price": 84.2,
+        "cost_basis": 91.5,
+        "asset_class": "equities"
+      },
+      {
+        "ticker": "CASH",
+        "name": "Money Market",
+        "shares": 1,
+        "current_price": 92000,
+        "cost_basis": 92000,
+        "asset_class": "cash"
+      }
+    ]
+  },
+  "C005": {
+    "account_value": 1620000,
+    "holdings": [
+      {
+        "ticker": "VTI",
+        "name": "Vanguard Total Stock Market",
+        "shares": 2100,
+        "current_price": 238.5,
+        "cost_basis": 218.4,
+        "asset_class": "equities"
+      },
+      {
+        "ticker": "VEA",
+        "name": "Vanguard FTSE Dev Markets",
+        "shares": 2800,
+        "current_price": 48.6,
+        "cost_basis": 51.2,
+        "asset_class": "equities"
+      },
+      {
+        "ticker": "AGG",
+        "name": "iShares Core US Aggregate Bond",
+        "shares": 3200,
+        "current_price": 95.6,
+        "cost_basis": 99.8,
+        "asset_class": "fixed_income"
+      },
+      {
+        "ticker": "LQD",
+        "name": "iShares Corp Bond ETF",
+        "shares": 1100,
+        "current_price": 108.4,
+        "cost_basis": 115.6,
+        "asset_class": "fixed_income"
+      },
+      {
+        "ticker": "CASH",
+        "name": "Money Market",
+        "shares": 1,
+        "current_price": 84000,
+        "cost_basis": 84000,
+        "asset_class": "cash"
+      }
+    ]
+  },
+  "C006": {
+    "account_value": 342000,
+    "holdings": [
+      {
+        "ticker": "VTI",
+        "name": "Vanguard Total Stock Market",
+        "shares": 620,
+        "current_price": 238.5,
+        "cost_basis": 210.3,
+        "asset_class": "equities"
+      },
+      {
+        "ticker": "VXUS",
+        "name": "Vanguard Total Intl Stock",
+        "shares": 1800,
+        "current_price": 58.3,
+        "cost_basis": 61.4,
+        "asset_class": "equities"
+      },
+      {
+        "ticker": "QQQ",
+        "name": "Invesco QQQ Trust",
+        "shares": 80,
+        "current_price": 458.2,
+        "cost_basis": 398.5,
+        "asset_class": "equities"
+      },
+      {
+        "ticker": "BND",
+        "name": "Vanguard Total Bond ETF",
+        "shares": 120,
+        "current_price": 73.5,
+        "cost_basis": 75.2,
+        "asset_class": "fixed_income"
+      },
+      {
+        "ticker": "CASH",
+        "name": "Money Market",
+        "shares": 1,
+        "current_price": 18000,
+        "cost_basis": 18000,
+        "asset_class": "cash"
+      }
+    ]
+  }
+}

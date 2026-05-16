@@ -1,0 +1,104 @@
+[
+  {
+    "id": "C001",
+    "name": "Margaret Chen",
+    "age": 68,
+    "risk_tolerance": "conservative",
+    "investment_horizon": "short",
+    "income": 85000,
+    "net_worth": 1200000,
+    "email": "m.chen@email.com",
+    "target_allocation": {
+      "equities": 30,
+      "fixed_income": 60,
+      "cash": 10
+    },
+    "ips_notes": "Retired. Capital preservation priority. No leverage. Max equity 35%.",
+    "advisor_notes": "Widowed, very risk averse."
+  },
+  {
+    "id": "C002",
+    "name": "David & Sarah Patel",
+    "age": 45,
+    "risk_tolerance": "moderate",
+    "investment_horizon": "long",
+    "income": 320000,
+    "net_worth": 2800000,
+    "email": "dpatel@email.com",
+    "target_allocation": {
+      "equities": 65,
+      "fixed_income": 30,
+      "cash": 5
+    },
+    "ips_notes": "Dual income. Kids in college 2028-2032. ESG preference.",
+    "advisor_notes": "Tech executives, sophisticated investors."
+  },
+  {
+    "id": "C003",
+    "name": "Robert Kim",
+    "age": 38,
+    "risk_tolerance": "aggressive",
+    "investment_horizon": "long",
+    "income": 550000,
+    "net_worth": 4500000,
+    "email": "r.kim@email.com",
+    "target_allocation": {
+      "equities": 85,
+      "fixed_income": 10,
+      "cash": 5
+    },
+    "ips_notes": "High earner, growth-oriented. Comfortable with 30%+ drawdowns.",
+    "advisor_notes": "Startup founder, liquidity event last year."
+  },
+  {
+    "id": "C004",
+    "name": "Eleanor Vasquez",
+    "age": 72,
+    "risk_tolerance": "conservative",
+    "investment_horizon": "short",
+    "income": 60000,
+    "net_worth": 890000,
+    "email": "e.vasquez@email.com",
+    "target_allocation": {
+      "equities": 25,
+      "fixed_income": 65,
+      "cash": 10
+    },
+    "ips_notes": "Widow, fixed income dependent. RMDs begin next year. Preserve principal.",
+    "advisor_notes": "Very detail-oriented."
+  },
+  {
+    "id": "C005",
+    "name": "James & Lynn Okonkwo",
+    "age": 52,
+    "risk_tolerance": "moderate",
+    "investment_horizon": "medium",
+    "income": 195000,
+    "net_worth": 1650000,
+    "email": "jokonkwo@email.com",
+    "target_allocation": {
+      "equities": 60,
+      "fixed_income": 35,
+      "cash": 5
+    },
+    "ips_notes": "Planning retirement at 62. No speculative positions.",
+    "advisor_notes": "Business owners, monthly check-ins."
+  },
+  {
+    "id": "C006",
+    "name": "Thomas Webb",
+    "age": 29,
+    "risk_tolerance": "aggressive",
+    "investment_horizon": "long",
+    "income": 180000,
+    "net_worth": 350000,
+    "email": "t.webb@email.com",
+    "target_allocation": {
+      "equities": 90,
+      "fixed_income": 5,
+      "cash": 5
+    },
+    "ips_notes": "Early accumulation phase. Maximum growth. 30+ year horizon.",
+    "advisor_notes": "Software engineer, new client."
+  }
+]
